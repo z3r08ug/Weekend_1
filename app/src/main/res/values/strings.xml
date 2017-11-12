@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weekend_1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_roster">Roster</string>
+    <string name="title_activity_schedule">ScheduleActivity</string>
+    <string name="title_activity_standings">StandingsActivity</string>
+    <string name="title_activity_team_home">TeamHome</string>
+    <string name="title_activity_tickets">TicketsActivity</string>
+    <string name="title_activity_gronk">GronkActivity</string>
+</resources>
